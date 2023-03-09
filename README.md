@@ -1,8 +1,8 @@
-# almalinux-kubespray
-
-Pre: Install VirtualBox & Vagrant 
+# AlmaLinux + Kubespray
 
 Vagrant + AlmaLinux 9 + Kubespray testing:
+
+Pre: Install VirtualBox & Vagrant 
 
 ```
 $ vagrant up
