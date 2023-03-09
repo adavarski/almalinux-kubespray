@@ -98,7 +98,4 @@ kube-system   replicaset.apps/calico-kube-controllers-7967fb4566   1         1  
 kube-system   replicaset.apps/coredns-68868dc95b                   2         2         2       3m35s
 kube-system   replicaset.apps/dns-autoscaler-7ccd65764f            1         1         1       3m30s
 
-
-
-
 ```
