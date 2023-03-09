@@ -1,6 +1,6 @@
-# AlmaLinux 9 + Kubespray 
+## AlmaLinux 9 + Kubespray 
 
-### Vagrant + AlmaLinux 9 + Kubespray testing:
+### Vagrant + AlmaLinux 9 + Kubespray playground:
 
 #### Install VirtualBox & Vagrant 
 ```
@@ -12,7 +12,7 @@ $ sudo apt update
 $ sudo apt install vagrant
 $ sudo reboot
 ```
-#### Setup k8s cluster via Kubepray
+#### Setup k8s cluster with Kubepray
 ```
 $ vagrant up
 $ vagrant ssh node-1
