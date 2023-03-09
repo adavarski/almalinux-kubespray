@@ -1,5 +1,9 @@
 # almalinux-kubespray
 
+Pre: Install VirtualBox & Vagrant 
+
+Using Vagrant for testing kubespray on AlmaLinux 9:
+
 ```
 $ vagrant up
 $ vagrant ssh node-1
