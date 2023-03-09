@@ -1,8 +1,8 @@
 # AlmaLinux 9 + Kubespray 
 
-Vagrant + AlmaLinux 9 + Kubespray testing:
+### Vagrant + AlmaLinux 9 + Kubespray testing:
 
-Pre: Install VirtualBox & Vagrant 
+#### Install VirtualBox & Vagrant 
 ```
 ### Ubuntu Server example:
 $ sudo apt install virtualbox virtualbox-ext-pack -y
@@ -12,7 +12,7 @@ $ sudo apt update
 $ sudo apt install vagrant
 $ sudo reboot
 ```
-Setup k8s cluster via Kubepray
+#### Setup k8s cluster via Kubepray
 ```
 $ vagrant up
 $ vagrant ssh node-1
