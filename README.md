@@ -12,7 +12,7 @@ $ sudo apt update
 $ sudo apt install vagrant
 $ sudo reboot
 ```
-#### Setup k8s cluster with Kubepray
+#### Setup k8s cluster with Kubespray
 ```
 $ vagrant up
 $ vagrant ssh node-1
