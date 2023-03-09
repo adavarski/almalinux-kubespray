@@ -2,7 +2,7 @@
 
 Pre: Install VirtualBox & Vagrant 
 
-Using Vagrant for testing kubespray on AlmaLinux 9:
+Vagrant + AlmaLinux 9 + Kubespray testing:
 
 ```
 $ vagrant up
