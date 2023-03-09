@@ -1,4 +1,4 @@
-# AlmaLinux + Kubespray
+# AlmaLinux 9 + Kubespray 
 
 Vagrant + AlmaLinux 9 + Kubespray testing:
 
