@@ -20,6 +20,7 @@ $ ssh-keygen
 $ ssh-copy-id 192.168.56.11
 $ ssh-copy-id 192.168.56.12
 $ ssh-copy-id 192.168.56.13
+$ sudo dnf install git
 $ git clone https://github.com/kubernetes-sigs/kubespray
 $ cd kubespray/
 $ sudo dnf install epel-release
